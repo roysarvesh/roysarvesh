@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hey there, I'm Sarvesh Kumar Roy</h1>
+<h1 align="center">I'm Sarvesh Kumar Roy</h1>
 <p align="center">
-  🎓 Computer Science & Engineering (Data Science) Student  
+  🎓 Computer Science & Engineering Student  
   <br/>
   🎯 Passionate about Software Development, Data Analysis, and AI/ML  
   <br/>
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a final-year B.Tech student specializing in **Data Science**, driven to build impactful software systems and data-powered applications. Through multiple internships via **AICTE Eduskills**, I've worked on **AI**, **process automation**, and **data analytics** projects. Whether it's backend logic or training models, I love turning complex challenges into elegant solutions.
+I'm a final-year B.Tech CSE student , driven to build impactful software systems and data-powered applications. Through multiple internships via **AICTE Eduskills**, I've worked on **AI**, **process automation**, and **data analytics** projects. Whether it's backend logic or training models, I love turning complex challenges into elegant solutions.
 
 ---
 
