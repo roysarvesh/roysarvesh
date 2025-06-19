@@ -29,7 +29,7 @@ I'm a final-year B.Tech CSE student , driven to build impactful software systems
 `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scikit-learn` | `NLTK` | `OpenCV` | `Whisper`
 
 ### 🌐 Web & Backend  
-`HTML` | `CSS` | `JavaScript (basic)` | `PHP` | `MySQL`
+`HTML` | `CSS` | `JavaScript ` | `PHP` | `MySQL`
 
 ### 🧰 Tools & Platforms  
 `Google Colab` | `VS Code` | `Jupyter Notebook` | `Power BI` | `Alteryx` | `Celonis` | `Git` | `GitHub`
@@ -43,7 +43,7 @@ I'm a final-year B.Tech CSE student , driven to build impactful software systems
 
 - 🔍 **Data Analyst Intern** – *Alteryx SparkED, AICTE*  
 - ⚙️ **Process Mining Intern** – *Celonis, AICTE*  
-- 🤖 **AI & Git Intern** – *Infosys Springboard*  
+- 🤖 **Project Intern** – *Infosys Springboard*  
 - 🌿 **Sustainability Intern** – *OPPO India, 1M1B*  
 - 📱 **Data Science Intern** – *Slash Mark IT Solutions*  
 
