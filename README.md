@@ -69,7 +69,7 @@ I'm a final-year B.Tech CSE student passionate about solving real-world problems
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roysarvesh&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roysarvesh&layout=compact&theme=radical" width="47%" />
+  <<th><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=roysarvesh&langs_count=13&layout=compact&hide=jupyter%20notebook,html&theme=radical"></th> />
 </p>
 
 <p align="center">
