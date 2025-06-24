@@ -1,17 +1,18 @@
-<h1 align="center">I'm Sarvesh Kumar Roy</h1>
+<h1 align="center">Hi there, I'm Sarvesh Kumar Roy 👋</h1>
+
 <p align="center">
-  🎓 Computer Science & Engineering Student  
+  🎓 Final-year CSE Student  
   <br/>
-  🎯 Passionate about Software Development, Data Analysis, and AI/ML  
+  🎯 Focused on Software Development, Data Analysis & AI/ML  
   <br/>
-  📍 Based in Faridabad, India | 🧠 Lifelong Learner | 💻 Building real-world tech solutions  
+  📍 Faridabad, India | 🧠 Lifelong Learner | 💻 Real-world Tech Builder  
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a final-year B.Tech CSE student , driven to build impactful software systems and data-powered applications. Through multiple internships via **AICTE Eduskills**, I've worked on **AI**, **process automation**, and **data analytics** projects. Whether it's backend logic or training models, I love turning complex challenges into elegant solutions.
+I'm a final-year B.Tech CSE student passionate about solving real-world problems through code. I've worked across AI, process automation, and data analytics domains during multiple internships with **AICTE Eduskills**. Whether it's crafting robust backend systems or building smart data-powered applications, I thrive on turning complex challenges into elegant tech solutions.
 
 ---
 
@@ -29,41 +30,42 @@ I'm a final-year B.Tech CSE student , driven to build impactful software systems
 `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scikit-learn` | `NLTK` | `OpenCV` | `Whisper`
 
 ### 🌐 Web & Backend  
-`HTML` | `CSS` | `JavaScript ` | `PHP` | `MySQL`
+`HTML` | `CSS` | `JavaScript` | `PHP` | `MySQL`
 
 ### 🧰 Tools & Platforms  
-`Google Colab` | `VS Code` | `Jupyter Notebook` | `Power BI` | `Alteryx` | `Celonis` | `Git` | `GitHub`
+`VS Code` | `Jupyter Notebook` | `Google Colab` | `Power BI` | `Alteryx` | `Celonis` | `Git` | `GitHub`
 
-### 🔌 APIs I've Worked With  
+### 🔌 APIs Worked With  
 `Spotify` | `Genius` | `OpenAI` | `Google Maps` | `Supabase`
 
 ---
 
 ## 💼 Internships & Certifications
 
-- 🔍 **Data Analyst Intern** – *Alteryx SparkED, AICTE*  
-- ⚙️ **Process Mining Intern** – *Celonis, AICTE*  
+- 🔍 **Data Analyst Intern** – *Alteryx SparkED (AICTE)*  
+- ⚙️ **Process Mining Intern** – *Celonis (AICTE)*  
 - 🤖 **Project Intern** – *Infosys Springboard*  
-- 🌿 **Sustainability Intern** – *OPPO India, 1M1B*  
-- 📱 **Data Science Intern** – *Slash Mark IT Solutions*  
+- 🌱 **Sustainability Intern** – *OPPO India (1M1B)*  
+- 📊 **Data Science Intern** – *Slash Mark IT Solutions*
 
-🏅 Certified in *Power BI*, *AI Tools*, *Python*, *Process Automation*, *Alteryx Core*
+🏅 *Certified in*: Python, Power BI, AI Tools, Process Automation, Alteryx Core
 
 ---
 
-## 💡 Projects Spotlight
+## 💡 Project Highlights
 
 - 🔐 [Secure Data Hiding using Steganography](https://github.com/roysarvesh/Secure-Data-Hiding-in-Images-Using-Steganography)  
 - 📊 [Weather Data Analysis](https://github.com/roysarvesh/Weather-Data-Analysis.git)  
 - 📰 [Fake News Detection](https://github.com/roysarvesh/Fake-News-Detection.git)  
 - 🧠 [Gender and Age Prediction](https://github.com/roysarvesh/Gender-And-Age-Prediction.git)  
 - 💤 [Driver Drowsiness Detection](https://github.com/roysarvesh/Driver-Drowsiness-Detection.git)  
+- 🌐 [PHP-Based Project](https://github.com/roysarvesh/YOUR-PHP-PROJECT-URL) *(New!)*
 
-🔗 Explore more projects in [my repositories](https://github.com/roysarvesh?tab=repositories)
+🔗 Explore more at: [github.com/roysarvesh?tab=repositories](https://github.com/roysarvesh?tab=repositories)
 
 ---
 
-## 📈 GitHub Stats & Language Usage
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roysarvesh&show_icons=true&theme=radical" width="47%" />
@@ -76,13 +78,12 @@ I'm a final-year B.Tech CSE student , driven to build impactful software systems
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sarvesh-kumar-roy/)  
-- 📬 Email: sarveshkumarroy007@gmail.com  
-- 🌐 Portfolio: *Coming Soon*  
+- 📧 Email: sarveshkumarroy007@gmail.com  
 
 ---
 
-> 🧠 _“Code is not just instructions; it's a conversation between the developer and the machine.”_  
+> _“Code is not just instructions; it's a conversation between the developer and the machine.”_  
 > Let’s build, learn, and grow — one commit at a time 🚀
