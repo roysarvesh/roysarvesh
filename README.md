@@ -14,7 +14,6 @@
 
 I'm a B.Tech CSE graduate (Class of 2025) passionate about solving real-world problems through code. I've worked across AI, process automation, and data analytics domains during multiple internships with **AICTE Eduskills**. Whether it's crafting robust backend systems or building smart data-powered applications, I thrive on turning complex challenges into elegant tech solutions.
 
-
 ---
 
 ## 🛠️ Tech Stack
@@ -54,15 +53,15 @@ I'm a B.Tech CSE graduate (Class of 2025) passionate about solving real-world pr
 🏅 *Certified in*:  
 - Python, Power BI, AI Tools, Process Automation, Alteryx Core  
 - ✅ **SQL (Advanced)** – *HackerRank*  
-- 🌟 **5-Star SQL Programmer** – *[HackerRank](https://www.hackerrank.com/profile/sarveshkumarroy2)*  
+- 🌟 **5-Star SQL Programmer** – *[HackerRank](https://www.hackerrank.com/sarveshkumarroy2)*  
 - ☁️ **Oracle Cloud Infrastructure 2025 Certified Data Science Professional**
 
 ---
 
 ## 🏆 Achievements
 
-- 🌟 5-Star SQL Programmer on [HackerRank](https://www.hackerrank.com/
-- 📜 SQL (Advanced) Certified – HackerRank
+- 🌟 5-Star SQL Programmer on [HackerRank](https://www.hackerrank.com/sarveshkumarroy2)  
+- 📜 SQL (Advanced) Certified – HackerRank  
 - ☁️ Oracle Cloud Infrastructure 2025 Certified Data Science Professional
 
 ---
@@ -74,7 +73,7 @@ I'm a B.Tech CSE graduate (Class of 2025) passionate about solving real-world pr
 - 📰 [Fake News Detection](https://github.com/roysarvesh/Fake-News-Detection.git)  
 - 🧠 [Gender and Age Prediction](https://github.com/roysarvesh/Gender-And-Age-Prediction.git)  
 - 💤 [Driver Drowsiness Detection](https://github.com/roysarvesh/Driver-Drowsiness-Detection.git)  
-- 🌐 [PHP-Based Project](https://github.com/roysarvesh/Task-Scheduler) 
+- 🌐 [PHP-Based Project](https://github.com/roysarvesh/Task-Scheduler)  
 
 🔗 Explore more at: [github.com/roysarvesh?tab=repositories](https://github.com/roysarvesh?tab=repositories)
 
