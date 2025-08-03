@@ -54,14 +54,14 @@ I'm a B.Tech CSE graduate (Class of 2025) passionate about solving real-world pr
 🏅 *Certified in*:  
 - Python, Power BI, AI Tools, Process Automation, Alteryx Core  
 - ✅ **SQL (Advanced)** – *HackerRank*  
-- 🌟 **5-Star SQL Programmer** – *[HackerRank](https://www.hackerrank.com/roysarvesh)*  
+- 🌟 **5-Star SQL Programmer** – *[HackerRank](https://www.hackerrank.com/profile/sarveshkumarroy2)*  
 - ☁️ **Oracle Cloud Infrastructure 2025 Certified Data Science Professional**
 
 ---
 
 ## 🏆 Achievements
 
-- 🌟 5-Star SQL Programmer on [HackerRank](https://www.hackerrank.com/roysarvesh)
+- 🌟 5-Star SQL Programmer on [HackerRank](https://www.hackerrank.com/
 - 📜 SQL (Advanced) Certified – HackerRank
 - ☁️ Oracle Cloud Infrastructure 2025 Certified Data Science Professional
 
