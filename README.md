@@ -55,6 +55,7 @@ I'm a B.Tech CSE graduate (Class of 2025) passionate about solving real-world pr
 - ✅ **SQL (Advanced)** – *HackerRank*  
 - 🌟 **5-Star SQL Programmer** – *[HackerRank](https://www.hackerrank.com/sarveshkumarroy2)*  
 - ☁️ **Oracle Cloud Infrastructure 2025 Certified Data Science Professional**
+- ☁️ **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
 
 ---
 
